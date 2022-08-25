@@ -16,6 +16,7 @@ namespace FileHandlingDemoContd
 
             //File.Create(path+fname);
             fname = string.Concat(path, fname);
+
             //  File.Create(fname);
             //Console.WriteLine("file created successfully...");
             //Console.WriteLine("Enter your file contents");
